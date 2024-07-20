@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Yourfavwhitemexican.
-- 👀 I’m interested in open source devices and communications.
-- 🌱 I’m currently learning to Hack anything 8).
+- 👀 I’m interested in open source devices and wireless communications. !IoT make it possible!
+- 🌱 I’m currently learning how to Ethical Hack anything 8).
 - 💞️ I’m looking to collaborate on any lucrative project.
 - 📫 How to reach me... just Ask for...
-- 😄 Pronouns: Dserstudio / Gorilla Units.
 - ⚡ Fun fact: From the hottest city in the World NO CAP.
 
 <!---

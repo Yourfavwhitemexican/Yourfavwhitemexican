@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yourfavwhitemexican.
 - 👀 I’m interested in open source devices and wireless communications. !IoT make it possible!
-- 🌱 I’m currently learning how to Mod/Create all kind of innovative techno devices.
-- 💞️ I’m looking to collaborate on any Open source project.
+- 🌱 I’m currently learning how to Mod/Create all kind of innovative electronic devices.
+- 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me... just Ask for...
 - ⚡ Fun fact: From the hottest city in the World NO CAP.
 
